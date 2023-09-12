@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.coldsun.lesson4"},{"l":"ru.coldsun.lesson4.myExceptions"}];updateSearchResults();

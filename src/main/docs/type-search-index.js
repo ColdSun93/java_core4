@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ru.coldsun.lesson4","l":"Main"},{"p":"ru.coldsun.lesson4.myExceptions","l":"MyArrayDataException"},{"p":"ru.coldsun.lesson4.myExceptions","l":"MyArraySizeException"}];updateSearchResults();
